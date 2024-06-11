@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/medha/OneDrive/Desktop/WorkSpace/XGBoost/mlruns/0/7eebe5ad90f3422c88b1a759df8c822b/artifacts
+end_time: 1718121324747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7eebe5ad90f3422c88b1a759df8c822b
+run_uuid: 7eebe5ad90f3422c88b1a759df8c822b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718121324522
+status: 3
+tags: []
+user_id: medha
